@@ -3,3 +3,4 @@
 .RData
 .Ruserdata
 input/
+./scripts/day04.R
